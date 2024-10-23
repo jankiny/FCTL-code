@@ -1,0 +1,12 @@
+# training files ()
+configs/
+pretrained_weights/
+runs/
+train_fctl_1.py
+
+
+# not related
+train_pipe.sh
+setup.sh
+wandb_utils.py
+upload_ckpts.sh

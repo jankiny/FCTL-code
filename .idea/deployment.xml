@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="yangzhenglei@HDU.EDGE" remoteFilesAllowedToDisappearOnAutoupload="false" confirmBeforeUploading="false">
+    <option name="confirmBeforeUploading" value="false" />
+    <serverData>
+      <paths name="yangzhenglei@HDU.EDGE">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/yangzhenglei/hdd/projects/FCTL-code" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="yangzhenglei@HDU.EDGE(VPN)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/yangzhenglei/hdd/projects/FCTL-code" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
